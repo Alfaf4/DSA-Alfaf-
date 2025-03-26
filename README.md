@@ -12,7 +12,7 @@ This C program calculates the average marks for three subjects: Physics, Math, a
 
 Below is a screenshot of the program’s output when you run it.
 
-![Program Output](images/program_output.png)
+![Program Output](code.PNG)
 
 ## How to Use:
 
