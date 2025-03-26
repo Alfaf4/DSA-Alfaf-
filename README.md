@@ -14,8 +14,4 @@ Below is a screenshot of the program’s output when you run it.
 
 ![Program Output](code.PNG)
 
-## How to Use:
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
